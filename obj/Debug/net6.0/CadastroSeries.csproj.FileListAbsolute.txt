@@ -1,0 +1,15 @@
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\bin\Debug\net6.0\CadastroSeries.exe
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\bin\Debug\net6.0\CadastroSeries.deps.json
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\bin\Debug\net6.0\CadastroSeries.runtimeconfig.json
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\bin\Debug\net6.0\CadastroSeries.dll
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\bin\Debug\net6.0\ref\CadastroSeries.dll
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\bin\Debug\net6.0\CadastroSeries.pdb
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.AssemblyReference.cache
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfoInputs.cache
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\CadastroSeries.AssemblyInfo.cs
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\CadastroSeries.dll
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\ref\CadastroSeries.dll
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\CadastroSeries.pdb
+C:\DioExercicios\Cadastro-Simples-.NET\CadastroSeries\obj\Debug\net6.0\CadastroSeries.genruntimeconfig.cache
